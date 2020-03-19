@@ -1,0 +1,6 @@
+package com.codevl.codevloupe
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
